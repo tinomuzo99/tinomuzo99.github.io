@@ -9,7 +9,7 @@ author_profile: true
 
 [Download CV (PDF)](/files/Tinomutendayi_Muzondidya_CV.pdf)
 
-> **Before publishing:** Upload your public-facing CV to `files/Tinomutendayi_Muzondidya_CV.pdf`. Consider removing private contact details and personal identifiers.
+
 
 ## Education
 
