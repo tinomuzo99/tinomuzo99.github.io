@@ -23,7 +23,7 @@ repository               : "tinomuzo99/tinomuzo99.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "images/profile.jpg"
   name             : "Tinomutendayi Muzondidya"
   pronouns         : # example: "he/him"  
   bio              : "Joint PhD Researcher | Conversational AI, Recommender Systems and Applied ML"
