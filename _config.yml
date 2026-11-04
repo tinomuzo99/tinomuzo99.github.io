@@ -28,21 +28,21 @@ author:
   pronouns         : # example: "he/him"  
   bio              : "Joint PhD Researcher | Conversational AI, Recommender Systems and Applied ML"
   location         : "South Africa"
-  employer         : "Stellenbosch University 
-                      /University of Groningen"
+  employer         : "Stellenbosch University" 
+                      
   uri              : # URL
   email            : "muzondidyat@sun.ac.za" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
